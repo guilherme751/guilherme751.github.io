@@ -1,6 +1,7 @@
 ---
 title: "Blog"
-layout: blog
+layout: home
 permalink: /blog/
-author_profile: true
+pagination:
+  enabled: true
 ---

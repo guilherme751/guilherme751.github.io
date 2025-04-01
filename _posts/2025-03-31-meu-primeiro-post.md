@@ -1,7 +1,7 @@
 ---
 title: "Meu Primeiro Post"
 date: 2025-03-31
-num: 1
+slug: 1
 layout: post
 permalink: /blog/1/
 categories: blog
