@@ -1,7 +1,7 @@
 ---
-permalink: /home/
+permalink: /
 title: "Home"
-layout: home
+layout: single
 author_profile: true
 ---
 
