@@ -32,7 +32,6 @@ Research internship abroad scholarship funded by [FAPESP](https://fapesp.br/en).
 ## Professional and Research Experience
 
 **Independent Contractor** – Nicchio Café S.A. Exportação e Importação  
-*Aug 2024 – Present*  
 - **Task**: Designed and implemented a web server for managing sales operations and currency exchange contracts for Nicchio Café.  
 - **Technologies used**: SQL, Python (Flask), JavaScript, LDAP
 
@@ -52,6 +51,8 @@ Nov 2023 – Present
 Teaching Assistant for the Programming II course at Ufes.  
 - Grading assignments and projects developed in the C programming language.  
 - Available to assist students with questions and provide clarifications as needed.
+
+
 ---
 
 ## Relevant Projects
