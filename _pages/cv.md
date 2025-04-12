@@ -1,10 +1,11 @@
 ---
-title: "CV"
+title: "Curriculum"
 permalink: /cv/
 layout: single
 author_profile: true
 ---
 
+You can find the pdf version at: [Curriculum](https://guilherme751.github.io/assets/documents/GuilhermeCurriculum.pdf)
 
 # Guilherme S. G. Brotto
 Email: guisgb10@gmail.com  
@@ -110,6 +111,6 @@ Teaching Assistant for the Programming II course at Ufes.
 ## Languages
 - **Portuguese**: Native  
 - **English**: Fluent  
-- **Spanish**: Intermediate  
+- **Spanish**: Basic  
 - **Italian**: Basic
 
