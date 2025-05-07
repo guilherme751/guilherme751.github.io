@@ -1,9 +1,9 @@
 main:
-  - title: "Home"
+  - title: "🏠 Home"
     url: /
-  - title: "Blog"
+  - title: "📝 Blog"
     url: /blog/
-  - title: "Curriculum"
+  - title: "📄 Curriculum"
     url: /cv/
-  - title: ""
+  - title: "🔬 Research"
     url: /research/

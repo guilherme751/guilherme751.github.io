@@ -65,7 +65,7 @@ author:
       url: "mailto:guisgb10@gmail.com"
     - label: "Curriculum"
       icon: "far fa-fw fa-file-pdf"
-      url: "/assets/files/not-availableyet.pdf"
+      url: "assets/documents/GuilhermeCurriculum.pdf"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/guilherme-s-g-brotto-13707b235"

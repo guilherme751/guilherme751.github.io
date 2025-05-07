@@ -4,7 +4,6 @@ date: 2025-04-16T00:12:30+2:00
 categories:
   - blog
 tags:
-  - Jekyll
   - welcome
 ---
 
