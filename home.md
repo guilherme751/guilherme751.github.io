@@ -1,6 +1,8 @@
 ---
-permalink: /home/
+layout: single
 title: "Home"
+permalink: /
+author_profile: true
 ---
 
 I'm Guilherme S. G. Brotto, and I'm excited to share my journey in computer science with you. Here, you'll find insights into my projects, research, and interests in technology. You can also check my blog for some cool posts! Feel free to explore and connect!

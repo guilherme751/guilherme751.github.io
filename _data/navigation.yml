@@ -3,7 +3,7 @@ main:
     url: /
   - title: "Blog"
     url: /blog/
-  - title: "CV"
+  - title: "Curriculum"
     url: /cv/
-  - title: "Research"
+  - title: ""
     url: /research/
