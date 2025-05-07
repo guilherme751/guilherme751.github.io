@@ -1,12 +1,7 @@
 ---
 title: "Meu Primeiro Post"
 date: 2025-03-31
-slug: 1
-layout: post
-permalink: /blog/1/
-categories: blog
 tags: [exemplo, jekyll]
-author: "Guilherme Brotto"
 ---
 
 ## Olá, mundo!
