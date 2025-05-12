@@ -7,4 +7,4 @@ tags:
   - welcome
 ---
 
-"Welcome to my blog! Here, you'll find posts on topics I'm passionate about—like generative AI, algorithms, data science, and more. Expect tutorials, coding walkthroughs, deep dives into various subjects, fun facts, and lots of exciting content!"
+Welcome to my blog! Here, you'll find posts on topics I'm passionate about—like generative AI, algorithms, data science, and more. Expect tutorials, coding walkthroughs, deep dives into various subjects, fun facts, and lots of exciting content!

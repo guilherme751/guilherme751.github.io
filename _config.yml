@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Guilherme Brotto"
   avatar : "/assets/images/profile-pic.PNG"
-  bio    : "Computer Science Student at University of Espírito Santo (UFES)."
+  bio    : "Computer Science Student at Federal University of Espírito Santo (UFES)."
   location: "Rua Doutor Dido Fontes, 195/201"
   links:
     - label: "Email"
