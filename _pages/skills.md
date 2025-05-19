@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-## Frameworks and Skills
-
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; align-items: center;">
 
   <div style="text-align: center;">
@@ -44,10 +42,8 @@ author_profile: true
     <p>Matplotlib</p>
   </div>
 
- 
-
   <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"alt="Linux" width="60">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="60">
     <p>Linux</p>
   </div>
 
