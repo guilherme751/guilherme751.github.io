@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; align-items: center;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; justify-items: center; align-items: center;">
 
   <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="60">
@@ -52,6 +52,30 @@ author_profile: true
     <p>Python</p>
   </div>
 
-    
-          
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
