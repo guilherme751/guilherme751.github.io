@@ -13,10 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Guilherme Brotto
+title: Guilherme S. G. Brotto
 email: guisgb10@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Computer Science student at Federal University of Espírito Santo (UFES)
+  Computer Science student at Federal University of Espírito Santo with experience in Machine Learning, Deep Learning, and Data Science using Python, PyTorch, scikit-learn, and more.
+
 github_username: guilherme751
 minimal_mistakes_skin: air
 search: true
@@ -28,7 +29,19 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /blog/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /blog/page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Rome
+title_separator: "•"
+repository: guilherme751/guilherme751.github.io
+atom_feed:
+  hide: false
+incremental: true
+locale: en
+
+social:
+  name: Guilherme S. G. Brotto
+  links:
+    - https://github.com/guilherme751
+    - https://www.linkedin.com/in/guilherme-s-g-brotto-13707b235
 
 include:
   - _pages
