@@ -43,7 +43,7 @@ author_profile: true
   </div>
 
   <div style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="60">
+    <img src="/assets/images/Tux.png" alt="Linux" width="60">
     <p>Linux</p>
   </div>
 
