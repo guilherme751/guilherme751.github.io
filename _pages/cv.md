@@ -111,6 +111,6 @@ Teaching Assistant for the Programming II course at Ufes.
 ## Languages
 - **Portuguese**: Native  
 - **English**: Fluent  
+- **Italian**: Intermediate
 - **Spanish**: Basic  
-- **Italian**: Basic
 
