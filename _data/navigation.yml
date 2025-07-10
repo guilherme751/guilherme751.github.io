@@ -1,7 +1,7 @@
 main:
   - title: "🏠 Home"
     url: /
-  - title: "Portfolio"
+  - title: "🖥️ Portfolio"
     url: /portfolio
   - title: "📝 Blog"
     url: /blog/
