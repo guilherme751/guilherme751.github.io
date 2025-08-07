@@ -115,14 +115,14 @@ Teaching Assistant for the Programming II course at Ufes.
 - 40 hours
 - Participated in a collaborative project between and Texas A&M.
 - The project focused on integrating the Sustainable Development Goals (SDGs) into Supply Chain Management (SCM). Activities included analyzing SDG applications in SC business processes, developing innovative solutions to related challenges, and simulating a startup aligned with a selected SDG.
-- [Certificate](assets/certificates/Guilherme-Certificate.pdf)
+- [Certificate](../assets/certificates/Guilherme-Certificate.pdf)
 
 
 **SBRC 2024 Hackathon – 2nd Place Winner**
 - Sociedade Brasileira de Computação (SBC) – May 2024
 - Project: Solar Market
 - Developed a blockchain-based application for smart cities. The solution was awarded second place in the official hackathon of the 42nd Brazilian Symposium on Computer Networks and Distributed Systems (SBRC 2024), supported by Cartesi.
-- [Certificate](assets/certificates/segundo-lugar-hackathon.pdf)
+- [Certificate](../assets/certificates/segundo-lugar-hackathon.pdf)
 ## Languages
 - **Portuguese**: Native  
 - **English**: Fluent  
