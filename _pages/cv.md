@@ -5,11 +5,17 @@ layout: single
 author_profile: true
 ---
 
-You can find the pdf version at: [Curriculum](https://guilherme751.github.io/assets/documents/GuilhermeCurriculum.pdf)
+Pdf versions at: 
+- Curriculum Vitae: [Curriculum Vitae](https://guilherme751.github.io/assets/documents/GuilhermeCurriculum.pdf)
+- Resume in portuguese: [Portuguese Resume](https://guilherme751.github.io/assets/documents/Resume-ptbr.pdf)
+- Resume in english: [English Resume](https://guilherme751.github.io/assets/documents/Resume-en.pdf)
+
+
 
 # Guilherme S. G. Brotto
-Email: guilhermebrotto.ml@gmail.com 
-Phone: +55 27 996405578
+- Email: guilhermebrotto.ml@gmail.com 
+- Phone: +55 27 996405578
+- Github: [Github](https://github.com/guilherme751)
 
 ---
 
