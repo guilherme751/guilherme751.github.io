@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm -rf \"C:/Users/Usuário/Documents/guilherme751.github.io/_posts\")",
+      "Bash(rm -f \"C:/Users/Usuário/Documents/guilherme751.github.io/_pages/blog.md\")"
+    ]
+  }
+}

@@ -1,35 +1,15 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Guilherme Brotto
-email: guisgb10@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Computer Science student at Federal University of Espírito Santo with experience in Machine Learning, Deep Learning, and Data Science using Python, PyTorch, scikit-learn, and more.
+email: guilhermebrotto.ml@gmail.com
+description: >-
+  Computer Science graduate from Federal University of Espírito Santo with experience in Software Development, Machine Learning, and Automation. Working with Python, C#, .NET, AWS, and PyTorch.
 
 github_username: guilherme751
 minimal_mistakes_skin: air
 search: true
 
-# Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /blog/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /blog/page:num/
-timezone: Europe/Rome
+timezone: America/Sao_Paulo
 title_separator: "•"
 repository: guilherme751/guilherme751.github.io
 
@@ -45,21 +25,7 @@ social:
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jemoji
@@ -68,59 +34,35 @@ plugins:
 author:
   name   : "Guilherme Brotto"
   avatar : "/assets/images/profile-pic.PNG"
-  bio    : "Computer Science Student at Federal University of Espírito Santo (UFES)."
-  location: "Rua Doutor Dido Fontes, 195/201"
+  bio    : "Software Developer & ML Researcher. CS graduate from UFES."
+  location: "Vitória, ES, Brazil"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:guisgb10@gmail.com"
+      url: "mailto:guilhermebrotto.ml@gmail.com"
     - label: "Curriculum"
       icon: "far fa-fw fa-file-pdf"
       url: "https://guilherme751.github.io/assets/documents/GuilhermeCurriculum.pdf"
-    - label: "Linkedin"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/guilherme-s-g-brotto-13707b235"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/guilherme751"
-   
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/guilherme751"
-    - label: "Linkedin"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/guilherme-s-g-brotto-13707b235"
-   
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
       author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-
-
-heading: ""

@@ -5,184 +5,167 @@ layout: single
 author_profile: true
 ---
 
-Pdf versions at: 
-- Curriculum Vitae: [Curriculum Vitae](https://guilherme751.github.io/assets/documents/GuilhermeCurriculum.pdf)
-- Resume in portuguese: [Portuguese Resume](https://guilherme751.github.io/assets/documents/Resume-ptbr.pdf)
-- Resume in english: [English Resume](https://guilherme751.github.io/assets/documents/Resume-en.pdf)
+PDF versions:
+- [Curriculum Vitae (PT)](https://guilherme751.github.io/assets/documents/GuilhermeCurriculum.pdf)
+- [Resume in English](https://guilherme751.github.io/assets/documents/Resume-en.pdf)
+- [Resume in Portuguese](https://guilherme751.github.io/assets/documents/Resume-ptbr.pdf)
 
-
+---
 
 # Guilherme S. G. Brotto
-- Email: guilhermebrotto.ml@gmail.com 
-- Phone: +55 27 996405578
-- Github: [Github](https://github.com/guilherme751)
+
+- **Email**: guilhermebrotto.ml@gmail.com
+- **Phone**: +55 27 99640-5578
+- **Location**: Vitória, ES, Brazil (available to relocate)
+- **GitHub**: [github.com/guilherme751](https://github.com/guilherme751)
+- **LinkedIn**: [linkedin.com/in/guilherme-s-g-brotto-13707b235](https://www.linkedin.com/in/guilherme-s-g-brotto-13707b235)
 
 ---
 
 ## Professional Objective
-Computer Science graduate with a strong focus on Artificial Intelligence and Deep Learning. Experienced in developing machine learning systems, generative models, and data-driven applications. Interested in applying modern AI techniques to real-world problems involving data analysis, automation, and network traffic monitoring.
+
+Computer Science graduate with a strong focus on Software Development, Artificial Intelligence, and Automation. Experienced in building corporate systems, APIs, cloud integrations, and machine learning applications. Interested in roles that combine robust software engineering with practical AI to solve real-world problems.
 
 ---
 
 ## Education
 
-**Federal University of Espírito Santo (UFES)** – Vitória, Brazil  
-B.S., Computer Science: June 2021 - March 2026  
+**Federal University of Espírito Santo (UFES)** — Vitória, Brazil  
+B.S., Computer Science: June 2021 – March 2026
 
-**Università di Torino** – Turin, Italy  
+**Università di Torino** — Turin, Italy  
 Visiting Undergraduate Research Student: April 2025 – July 2025  
-Research internship abroad funded by the São Paulo Research Foundation (FAPESP).
+International research internship funded by FAPESP (São Paulo Research Foundation).
 
 ---
 
-## Professional and Research Experience
+## Professional Experience
 
-**Automation Assistant** – Mindworks  
-Oct 2025 – Present  
+**Software Developer** — Mindworks  
+May 2026 – Present
 
-- Develop automation systems for corporate processes using **n8n** and database technologies.
-- Design and implement automated workflows integrating multiple services and APIs.
-- Optimize operational tasks through logic-based automation and data-driven solutions.
-- Build integrations between internal systems and external platforms to streamline business processes.
-
----
-
-**Software Developer** – Nicchio Café S.A. Exportação e Importação  
-Aug 2024 – Apr 2025  
-
-- Designed and implemented a web server to manage sales operations and currency exchange contracts.
-- Developed internal tools to automate business workflows and manage financial data.
-- **Technologies**: Python (Flask), SQL, JavaScript, LDAP.
+- Development and maintenance of corporate systems using **C#**, **.NET**, and relational databases.
+- Implementation of APIs, system integrations, and application evolution.
+- Experience with **AWS** services including Lambda and Cognito.
+- Participation in process automation projects and AI-driven solutions.
 
 ---
 
-**Scientific Initiation Researcher** – Laboratório de Pesquisa em Redes e Multimídia (LPRM), UFES  
-Nov 2023 – Feb 2026
+**Automation Assistant** — Mindworks  
+Oct 2025 – May 2026
+
+- Developed corporate process automation systems using **n8n** and database technologies.
+- Implemented automated workflows integrating multiple services and APIs.
+- Optimized operational tasks through logic-based automation and data-driven solutions.
+
+---
+
+**Deep Learning Researcher** — LPRM, UFES & Università di Torino  
+Oct 2023 – Jul 2025
 
 - Researched generative models for **synthetic network traffic and IoT monitoring data**.
-- Implemented and evaluated **Generative Adversarial Networks (GANs)** for time-series data generation.
-- Developed evaluation metrics to measure **fidelity, utility, and statistical similarity** of generated data.
-- Conducted experimental comparisons across multiple generative models.
-- Contributed to **peer-reviewed publications in international conferences**.
+- Trained and evaluated architectures including **GANs, Transformers**, and modern generative models.
+- Developed metrics to measure **fidelity, utility, and data privacy leakage** in generative models.
+- Contributed to **peer-reviewed publications** at IEEE WF-IoT 2024 and IEEE ISCC 2024.
+- Participated as visiting student at Università di Torino with an international FAPESP-funded scholarship.
 
 ---
 
-**Teaching Assistant – Advanced Structured Programming**  
-Federal University of Espírito Santo (UFES)  
-2022 – 2023  
+**Software Developer** — Nicchio Café S.A. Exportação e Importação  
+Aug 2024 – Apr 2025
+
+- Designed and implemented a web server to manage sales operations and currency exchange contracts.
+- Developed backend solutions using **Python (Flask)**, **SQL**, and **JavaScript**.
+- Structured internal systems for business process automation and organization.
+
+---
+
+**Teaching Assistant — Advanced Structured Programming** — UFES  
+2022 – 2023
 
 - Assisted in the Programming II course focused on the **C programming language**.
-- Graded programming assignments and projects.
-- Supported students with debugging, algorithms, and programming concepts.
+- Graded assignments, supported students with debugging and programming concepts.
 
 ---
 
 ## Relevant Projects
 
-**FlowMIA: Evaluating Membership Inference Attacks on Generative Models**
-
-- **Description**: Undergraduate thesis project that evaluates privacy leakage in tabular generative models using Membership Inference Attacks (MIA).
-- **Contribution**: Developed a framework to compare different generative models based on their susceptibility to privacy attacks.
-- **Characteristics**: Model-agnostic framework requiring only synthetic data generated by the models.
-- **Domain**: Network traffic data, with potential applications to any tabular dataset.
+**FlowMIA: Membership Inference Attack on Generative Network Flow Models**
+- Undergraduate thesis (highest grade). Framework for evaluating privacy leakage in tabular generative models using Membership Inference Attacks.
+- Model-agnostic: requires only synthetic data generated by the model. Built for network traffic data, adaptable to any tabular domain.
+- **Technologies**: PyTorch, GANs, Transformers, Scikit-learn
+- Published at **IEEE DCOSS-IoT 2026**.
+- [GitHub Repository](https://github.com/guilherme751/FlowMIA)
 
 ---
 
 **Episodic Memory for Generative Pre-Trained Transformers**
-
-- **Description**: Implemented an episodic memory mechanism for GPT-based models to improve recall of past interactions.
-- **Technologies**: PyTorch, Sentence-Transformers, NumPy, Pandas, Scikit-learn.
-- **Outcome**: Experimental evaluation showed that the memory-enabled model outperformed the baseline model across all evaluation metrics.
-- **Code**: https://github.com/gbladislau/LLM-Episodic-Memory/tree/main
-
----
-
-**AI Chrome Dino Game**
-
-- **Description**: Developed an intelligent agent capable of playing the Google Chrome Dino game.
-- **Technologies**: PyGame, Multilayer Perceptron (MLP), Genetic Algorithm.
-- **Outcome**: Achieved an average score of **1697.82 across 30 executions**.
-- **Code**: https://github.com/guilherme751/AI-CHROME-DINO-GAME-Python
+- Implemented an episodic memory mechanism for GPT-based models to improve recall of past interactions.
+- **Technologies**: PyTorch, Sentence-Transformers, NumPy, Scikit-learn
+- Memory-enabled model outperformed the baseline across all evaluation metrics.
+- [GitHub Repository](https://github.com/gbladislau/LLM-Episodic-Memory/tree/main)
 
 ---
 
 **Hackathon SBRC 2024 – 2nd Place**
-
-- **Description**: Developed blockchain-based applications for smart cities using **Cartesi Rollups**.
-- **Project Idea**: Decentralized marketplace for solar energy credit trading.
-- **Outcome**: **2nd place** in the official SBRC 2024 Hackathon.
-- **Code**: https://github.com/VitorSpa/hackathon-cartesi
+- Developed blockchain-based applications for smart cities using **Cartesi Rollups**.
+- Project: decentralized marketplace for solar energy credit trading.
+- [GitHub Repository](https://github.com/VitorSpa/hackathon-cartesi)
 
 ---
 
 **Brain Tumor Segmentation in MRI Scans**
-
-- **Description**: Implemented a neural network to classify and segment brain tumors from MRI scans.
-- **Technologies**: Convolutional Neural Networks (CNN), PyTorch, TensorBoard.
-- **Outcome**: Successfully localized tumor regions and classified them with high accuracy.
-- **Code**: https://github.com/intel-comp-saude-ufes/2024-1-P2-Magnetic-Resonance-Imaging-Brain-Tumor
+- Neural network for classification and segmentation of brain tumors from MRI images.
+- **Technologies**: PyTorch, CNN, TensorBoard
+- [GitHub Repository](https://github.com/intel-comp-saude-ufes/2024-1-P2-Magnetic-Resonance-Imaging-Brain-Tumor)
 
 ---
 
 ## Technical Skills
 
-**Programming Languages**  
-Python, C, C++, Java
+**Programming Languages**: Python, C#, C, C++, Java
 
-**AI / Machine Learning**
-PyTorch, Scikit-learn
+**AI / Machine Learning**: PyTorch, Scikit-learn, Hugging Face Transformers
 
-**Libraries & Tools**
-NumPy, Pandas, OpenCV, Matplotlib, Jupyter Notebook
+**Cloud & DevOps**: AWS (Lambda, Cognito), Docker, Linux, Git
 
-**Databases**
-MySQL, SQL Server
+**Automation**: n8n
 
-**Key Concepts**
-Deep Learning, Generative Models, Time Series Analysis, GANs, CNNs, RNNs, LSTM, Transformers, Supervised and Unsupervised Learning
+**Libraries & Tools**: NumPy, Pandas, OpenCV, Matplotlib, Jupyter Notebook
+
+**Databases**: MySQL, SQL Server
+
+**Key Concepts**: Deep Learning, Generative Models, GANs, CNNs, Transformers, Time Series, APIs, System Integration
 
 ---
 
-## Publications and Conferences
+## Publications
 
-**Geração de Dados de Ataque em Internet das Coisas utilizando Redes Generativas Adversárias**  
-Iran Ribeiro, Guilherme Brotto, Giovani Comarela, Vinícius Mota  
-VIII Workshop de Computação Urbana – 2024
+**IEEE DCOSS-IoT 2026**  
+*FlowMIA: Membership Inference Attack on Generative Network Flow Models*  
+Guilherme Brotto et al.
 
-**IoTTraffic: Assessing Generative Models for Internet of Things Attack Data Flows**  
-Iran Ribeiro, Guilherme Brotto, Giovani Comarela, Rodolfo Villaça, Vinícius Mota  
-IEEE 10th World Forum on Internet of Things (WF-IoT), 2024
+**IEEE WF-IoT 2024**  
+*IoTTraffic: Assessing Generative Models for Internet of Things Attack Data Flows*  
+Iran Ribeiro, Guilherme Brotto, Giovani Comarela, Rodolfo Villaça, Vinícius Mota
 
-**Measuring Fidelity and Utility of Time Series Generative Adversarial Networks**  
-Iran Ribeiro, Guilherme Brotto, Antonio Rocha, Vinícius Mota  
-IEEE Symposium on Computers and Communications (ISCC), 2024
+**IEEE ISCC 2024**  
+*Measuring Fidelity and Utility of Time Series Generative Adversarial Networks*  
+Iran Ribeiro, Guilherme Brotto, Antonio Rocha, Vinícius Mota
 
 ---
 
 ## Certifications
 
-**Sustainable Development Goals in Supply Chain Management**
+**Deep Learning Specialization** — DeepLearning.AI
 
-Federal University of Espírito Santo (UFES) & Texas A&M University  
-40 hours
+**Sustainable Development Goals in Supply Chain Management**  
+UFES & Texas A&M University — 40 hours  
+[Certificate](/assets/certificates/Guilherme-Certificate.pdf)
 
-- Participated in a collaborative international project focused on integrating **Sustainable Development Goals (SDGs)** into Supply Chain Management.
-- Developed and simulated a startup aligned with SDG principles.
-
-Certificate:  
-../assets/certificates/Guilherme-Certificate.pdf
-
----
-
-**SBRC 2024 Hackathon – 2nd Place**
-
-Sociedade Brasileira de Computação (SBC) – May 2024  
-
-- Project: Solar Market
-- Blockchain-based smart city application for energy credit trading.
-
-Certificate:  
-../assets/certificates/segundo-lugar-hackathon.pdf
+**SBRC 2024 Hackathon – 2nd Place**  
+Sociedade Brasileira de Computação (SBC) — May 2024  
+[Certificate](/assets/certificates/segundo-lugar-hackathon.pdf)
 
 ---
 

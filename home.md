@@ -5,6 +5,8 @@ permalink: /
 author_profile: true
 ---
 
-I’m a Computer Science graduate from the Federal University of Espírito Santo (UFES) with a strong interest in applying Machine Learning and Deep Learning to real-world problems. My work combines industry experience and academic research, focusing on areas such as generative models, large language models, synthetic data generation, and data-driven systems. I enjoy building practical solutions that leverage modern AI techniques for tasks like network traffic analysis, automation, and intelligent data processing.
+I'm a Computer Science graduate from the Federal University of Espírito Santo (UFES), currently working as a Software Developer at Mindworks. My work spans software engineering and artificial intelligence — from building corporate APIs and cloud integrations to researching generative models for data synthesis and privacy.
 
-Alongside my professional work, I was also involved in research at the Laboratório de Pesquisa em Redes e Multimídia (LPRM), where I explored topics related to network data and machine learning. My projects often sit at the intersection of software engineering and AI, using tools such as Python, PyTorch, and SQL to develop scalable and efficient systems. I’m particularly interested in technologies that improve data analysis, security, and privacy through advanced machine learning approaches.
+On the research side, I investigated generative models (GANs, Transformers) applied to synthetic network traffic and IoT monitoring data, with publications at IEEE WF-IoT 2024, IEEE ISCC 2024, and IEEE DCOSS-IoT 2026. My undergraduate thesis, FlowMIA, evaluated privacy leakage in tabular generative models using Membership Inference Attacks.
+
+My core stack includes Python, C#, .NET, AWS (Lambda, Cognito), PyTorch, and SQL. I'm interested in systems that are both production-ready and technically rigorous — whether that means designing a reliable API or training a model that respects privacy boundaries.

@@ -2,9 +2,7 @@ main:
   - title: "🏠 Home"
     url: /
   - title: "🖥️ Portfolio"
-    url: /portfolio
-  - title: "📝 Blog"
-    url: /blog/
+    url: /portfolio/
   - title: "📄 Curriculum"
     url: /cv/
   - title: "🛠️ Skills"
