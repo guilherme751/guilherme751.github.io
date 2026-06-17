@@ -6,9 +6,7 @@ author_profile: true
 ---
 
 PDF versions:
-- [Curriculum Vitae (PT)](https://guilherme751.github.io/assets/documents/GuilhermeCurriculum.pdf)
-- [Resume in English](https://guilherme751.github.io/assets/documents/Resume-en.pdf)
-- [Resume in Portuguese](https://guilherme751.github.io/assets/documents/Resume-ptbr.pdf)
+- [Resume in Portuguese](https://guilherme751.github.io/assets/documents/guilherme_cv_06_26)
 
 ---
 
