@@ -1,0 +1,106 @@
+baseURL: https://guilherme751.github.io/
+title: Guilherme Brotto
+locale: en-us
+defaultContentLanguage: en
+enableRobotsTXT: true
+enableGitInfo: false
+
+theme: hextra
+
+module:
+  hugoVersion:
+    extended: true
+    min: "0.146.0"
+
+outputs:
+  home: [html]
+  page: [html]
+  section: [html, rss]
+
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      pageRef: /
+      weight: 1
+    - identifier: experience
+      name: Experience
+      pageRef: /experience
+      weight: 2
+    - identifier: projects
+      name: Projects
+      pageRef: /projects
+      weight: 3
+    - identifier: research
+      name: Research
+      pageRef: /research
+      weight: 4
+    - identifier: certifications
+      name: Certifications
+      pageRef: /certifications
+      weight: 5
+    - identifier: contact
+      name: Contact
+      pageRef: /contact
+      weight: 6
+    - name: Search
+      weight: 7
+      params:
+        type: search
+    - name: GitHub
+      weight: 8
+      url: "https://github.com/guilherme751"
+      params:
+        icon: github
+    - name: LinkedIn
+      weight: 9
+      url: "https://www.linkedin.com/in/guilherme-s-g-brotto-13707b235"
+      params:
+        icon: linkedin
+
+params:
+  description: >-
+    Computer Science graduate from the Federal University of Espírito Santo with experience in
+    Software Development, Machine Learning, and Automation. Working with Python, C#, .NET, AWS, and PyTorch.
+
+  externalLinkDecoration: true
+
+  navbar:
+    displayTitle: true
+    displayLogo: false
+    width: normal
+
+  theme:
+    default: system
+    displayToggle: true
+
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: false
+    width: normal
+
+  displayUpdatedDate: false
+
+  search:
+    enable: true
+    type: flexsearch
+    flexsearch:
+      index: content
+      tokenize: forward
+
+  editURL:
+    enable: false
+
+  page:
+    width: normal
+
+  toc:
+    displayTags: false
